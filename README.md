@@ -54,3 +54,6 @@ If you think there is a security concern in the OED software, the please visit o
 ## Contact ##
 
 To contact us, see our [contact web page](https://openenergydashboard.org/contact/) or open an issue on GitHub.
+
+## Contributer ##
+John Baltazar - BushyMustache
